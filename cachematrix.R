@@ -1,6 +1,7 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## R Programming Assignment 2: Lexical Scoping--caching the inverse of a matrix
 
+## functions do
 ##  creates a special "matrix" object that can cache its inverse.
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
