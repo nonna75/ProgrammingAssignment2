@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## R Programming Assignment 2: Lexical Scoping--caching the inverse of a matrix
 ## functions do
 
 ## Write a short comment describing this function
@@ -26,7 +26,6 @@ makeCacheMatrix <- function(x = matrix()) {
          setinverse = setinverse,
          getinverse = getinverse)
     }
-
 
 ## Write a short comment describing this function
 ##computes the inverse of the special "matrix" returned by makeCacheMatrix
